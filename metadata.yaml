@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '40577'
     url: http://www.gutenberg.org/2009/agents/40577
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40371#Britain-in-the-Middle-AgesA-History-for-Beginners
 gutenberg_issued: '2012-07-29'
 gutenberg_type: Text
 identifiers:
